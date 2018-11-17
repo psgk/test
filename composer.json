@@ -1,6 +1,6 @@
 {
 	"name": "psgk/test",
-	"description": "A simple test package",
-  "keywords": ["test", "pkg"],
-  "license": "MIT"
+	"description": "An example package",
+  	"keywords": ["example", "pkg"],
+  	"license": "MIT"
 }
